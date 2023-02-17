@@ -77,4 +77,3 @@ class Rectangle(Base):
         if value <= 0:
             raise ValueError("y must be greater than 0(zero)")
         self.__y = value
-
