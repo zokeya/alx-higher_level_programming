@@ -9,11 +9,11 @@ class Rectangle(Base):
     def __init__(self, width, height, x=0, y=0, id=None):
         """Initialize a Rectangle
         Args:
-            with (int): WIdth of the Rectangle.
+            with (int): Width of the Rectangle.
             height (int): Height of the Rectangle.
             x (int): X coordinate of the Rectangle.
             y (int): Y coordinate of the Rectangle.
-            id (int): Identy of the Rectangle.
+            id (int): Identity of the Rectangle.
         Raises:
             TypeError: If width or height is not an int.
             ValueError: If width or height <= 0.
