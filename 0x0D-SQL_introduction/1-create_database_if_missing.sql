@@ -1,2 +1,2 @@
---create hbtn_0c_0 database without using SELECT or SHOWin your MySQL server
+-- creates the database hbtn_0c_0 in your MySQL server.
 CREATE DATABASE IF NOT EXISTS `hbtn_0c_0`;
