@@ -1,7 +1,3 @@
-let c = "C is fun";
-let p = "Python is cool";
-let j = "JavaScript is amazing";
-
-console.log(c);
-console.log(p);
-console.log(j);
+#!/usr/bin/node
+const myVar = "JavaScript is amazing";
+console.log(myVar);
