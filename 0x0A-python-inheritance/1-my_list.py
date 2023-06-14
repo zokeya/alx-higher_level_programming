@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 """Mylist class that inherists from list"""
 
-class Mylist(list):
+class MyList(list):
     """define a subclass of the list"""
     def __init__(self):
         """initialize the object"""
