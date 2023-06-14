@@ -1,6 +1,7 @@
 #!/usr/bin/python3
 """a Geometry class that raises an Exception"""
 
+
 class BaseGeometry:
     """initialize the class"""
     def __init__(self):
