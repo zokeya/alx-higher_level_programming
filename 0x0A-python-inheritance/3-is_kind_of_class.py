@@ -3,4 +3,4 @@
 is an instance of inherited class"""
 def is_kind_of_class(obj, a_class):
     """is True if the object is an instance of inherited class else False"""
-    return (isinstance((bj, a_class))
+    return (isinstance(obj, a_class))
